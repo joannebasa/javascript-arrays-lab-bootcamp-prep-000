@@ -7,6 +7,20 @@ function destructivelyAppendKitten() {
 
 }
 
-function appendKitten() {
+function destructivelyPrependKitten(name) {
   
 }
+
+function destructivelyRemoveLastKitten() {
+  
+}
+
+function destructivelyRemoveFirstKitten() {
+  
+}
+
+function appendKitten(name) {
+  
+}
+
+function 
